@@ -5,3 +5,8 @@
 * https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d
 * https://medium.com/@gepphkat/dynamic-programming-343-integer-break-4aa8dde3ee0f
 * https://medium.com/@dreamume/leetcode-139-word-break-2f6968b45af0
+
+# Knapsack Algorithm
+
+* https://www.guru99.com/knapsack-problem-dynamic-programming.html
+* https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RM1BDv71V60
